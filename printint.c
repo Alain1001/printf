@@ -71,5 +71,4 @@ int printint(char *format, va_list pa)
                                                                                                                                         
         numro = integer(num);                                                                                                           
         return (numro);                                                                                                                 
-}                                                                                                                                       
-
+}    
